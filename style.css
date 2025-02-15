@@ -18,7 +18,7 @@ body {
     padding: 40px;
     border-radius: 20px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-    border: 10px solid #d4af37;
+    border: 10px solid #ffc0cb;
     position: relative;
     overflow: hidden;
     text-align: center;
@@ -50,7 +50,7 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #d4af37;
+    border: 5px solid #a020f0;
     object-fit: cover;
     margin-bottom: 20px;
 }
