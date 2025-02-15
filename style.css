@@ -12,13 +12,13 @@ body {
 
 /* Scroll Container */
 .scroll {
-    background: #f3e0c0;
+    background: #ffc0cb;
     width: 60%;
     max-width: 800px;
     padding: 40px;
     border-radius: 20px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-    border: 10px solid #ffc0cb;
+    border: 10px solid #a020f0;
     position: relative;
     overflow: hidden;
     text-align: center;
